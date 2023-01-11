@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/%7Breact-calc-imc%7D/static/css/main.497db602.css",
-    "main.js": "/%7Breact-calc-imc%7D/static/js/main.2960f109.js",
-    "static/js/787.a3aff320.chunk.js": "/%7Breact-calc-imc%7D/static/js/787.a3aff320.chunk.js",
-    "static/media/powered.png": "/%7Breact-calc-imc%7D/static/media/powered.31688c4f015d2f42e203.png",
-    "index.html": "/%7Breact-calc-imc%7D/index.html",
-    "main.497db602.css.map": "/%7Breact-calc-imc%7D/static/css/main.497db602.css.map",
-    "main.2960f109.js.map": "/%7Breact-calc-imc%7D/static/js/main.2960f109.js.map",
-    "787.a3aff320.chunk.js.map": "/%7Breact-calc-imc%7D/static/js/787.a3aff320.chunk.js.map"
+    "main.css": "/react-calc-imc/static/css/main.497db602.css",
+    "main.js": "/react-calc-imc/static/js/main.bfa02f8c.js",
+    "static/js/787.a3aff320.chunk.js": "/react-calc-imc/static/js/787.a3aff320.chunk.js",
+    "static/media/powered.png": "/react-calc-imc/static/media/powered.31688c4f015d2f42e203.png",
+    "index.html": "/react-calc-imc/index.html",
+    "main.497db602.css.map": "/react-calc-imc/static/css/main.497db602.css.map",
+    "main.bfa02f8c.js.map": "/react-calc-imc/static/js/main.bfa02f8c.js.map",
+    "787.a3aff320.chunk.js.map": "/react-calc-imc/static/js/787.a3aff320.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.497db602.css",
-    "static/js/main.2960f109.js"
+    "static/js/main.bfa02f8c.js"
   ]
 }
